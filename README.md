@@ -1,6 +1,6 @@
 ## Hello, I'm Damla 💃🏻
 
->I'm full time learner 👩🏽‍💻 and use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="20" />  better every day.
+#### I'm full time learner 👩🏽‍💻 and use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="20" />  better every day.
 
 ----
 ### What I've learned and continue to improve
